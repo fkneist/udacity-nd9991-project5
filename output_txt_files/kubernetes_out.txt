@@ -1,0 +1,7 @@
+➜ ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "project5" already exists
+NAME       READY   STATUS    RESTARTS   AGE
+project5   1/1     Running   1          76m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
